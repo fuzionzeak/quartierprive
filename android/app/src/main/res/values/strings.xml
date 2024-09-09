@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">quartierprive</string>
+    <string name="title_activity_main">quartierprive</string>
+    <string name="package_name">ionic.quartierprive</string>
+    <string name="custom_url_scheme">ionic.quartierprive</string>
+</resources>
